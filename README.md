@@ -28,3 +28,84 @@ This is a list of various books, courses and other resources for swarm systems a
 * [Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence](https://www.amazon.com/Multi-Agent-Systems-Introduction-Distributed-Intelligence/dp/0201360489) - Jacques Ferber
 * [Collective Intelligence in Action](https://www.manning.com/books/collective-intelligence-in-action) - Satnam Alag
 * [Swarm Robotics: From Biology to Robotics](https://www.intechopen.com/books/3641) - Ester Martínez-Martín
+
+### Software and Libraries ###
+
+[**ARGoS**](https://www.argos-sim.info/index.php)
+ARGoS is a multi-physics robot simulator. It can simulate large-scale swarms of robots of any kind efficiently.
+
+[**ROS**](http://www.ros.org/)
+The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+
+[**ROS2**](https://index.ros.org/doc/ros2/)
+ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
+
+[**Gazebo**](http://gazebosim.org/)
+Robot Simulator
+
+[**Webots**](https://www.cyberbotics.com/overview)
+Webots is a development environment used to model, program and simulate mobile robots.
+
+[**Open AI's Roboschool**](https://github.com/openai/roboschool)
+Open-source software for robot simulation, integrated with OpenAI Gym.
+
+[**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
+Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
+
+[**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
+
+
+### Papers ###
+
+* Brambilla, Manuele, Eliseo Ferrante, Mauro Birattari, and Marco Dorigo. "Swarm robotics: a review from the swarm engineering perspective." Swarm Intelligence 7, no. 1 (2013): 1-41. [link](https://link.springer.com/article/10.1007/s11721-012-0075-2)
+* Schranz, Melanie, Martina Umlauft, Micha Sende, and Wilfried Elmenreich. "Swarm robotic behaviors and current applications." Frontiers in Robotics and AI 7 (2020): 36. [link](https://www.frontiersin.org/articles/10.3389/frobt.2020.00036/full) 
+* Dorigo, Marco, Guy Theraulaz, and Vito Trianni. "Swarm robotics: past, present, and future [point of view]." Proceedings of the IEEE 109.7 (2021): 1152-1165. [link](https://www.researchgate.net/publication/352762371_Swarm_Robotics_Past_Present_and_Future)
+
+### Conferences/Journals ###
+
+* [ANTS:International Conference on Swarm Intelligence](https://link.springer.com/conference/swarm)
+* [AAMAS: International Conference on Autonomous Agents and Multiagent Systems](https://aamas2023.soton.ac.uk/)
+
+
+### Blogs ###
+
+* [Swarm intelligence](http://www.scholarpedia.org/Swarm_intelligence) - Marco Dorigo and Mauro Birattari 2007
+* [Collective Intelligence for Deep Learning: A Survey of Recent Developments](https://blog.otoro.net/2022/10/01/collectiveintelligence/?s=08) - David Ha and Yujin Tang
+* [Secure and secret cooperation in robot swarms](https://www.media.mit.edu/publications/secure-and-secret-cooperation-in-robot-swarms/) - E. C. Ferrer, T. Hardjono, A. S. Pentland, M. Dorigo
+
+### Videos ###
+
+* [Swarm robotics](https://youtu.be/MbmbNiDZ1zE) - Marco Dorigo 
+* [Decentralised decision making and swarm robotics](https://youtu.be/RQpC1Zgu6B8) - Heiko Hamann
+* [Taming the swarm - Collective Artificial Intelligence](https://youtu.be/LHgVR0lzFJc) - Radhika Nagpal
+* [Swarm Intelligence: From Bees Feeding Bees, To Cars Charging Cars](https://youtu.be/nM13CEOyajo) - Tim Landgraf 
+* [What intelligent machines can learn from a school of fish](https://youtu.be/0bRocfcPhHU) - Radhika Nagpal
+* [Collective Intelligence, from Nature to Robots, MIT Robotics](https://youtu.be/8_UBE9rUv2w) - Radhika Nagpal
+* [Collective sensing and decision-making in animal groups](https://youtu.be/lWHYFoFRY34) - Iain Couzin
+* [Who’s in Charge of Living Swarms?](https://youtu.be/ewMDssOQkiY) - Simon Garnier 
+* [Together everyone achieves more!](https://youtu.be/stcgRnq6HZQ) - Heiko Hamann
+* [Practical Applications of Robot Swarms: Challenges and Solutions](https://youtu.be/B_geMRf-xH0) - Giovanni Beltrame
+* [Smart robotics for agriculture](https://youtu.be/6TGFWrM4byk) -  Jev Kuznetsov 
+* [Swarm robotics into the real world](https://youtu.be/7nAzbZDn0RA) -  Edmund Hunt
+* [Swarm robotics -- from local rules to global behaviors](https://youtu.be/ULKyXnQ9xWA) - Magnus Egerstedt 
+* [A swarm of mini drones makes ... magic!](https://youtu.be/u2bQSKvZ2qI) - Marco Tempest
+* [Intelligence Without Brains](https://youtu.be/RpwW9Lw2Ku4) - World Science Festival
+* [Multi-robot Systems(MRS) Summer School 2019](https://youtube.com/playlist?list=PLPjuFI-_2rxxCr3AD7HBcFbCG6nvL56Rg) - Multi-robot Systems Group at FEE-CTU in Prague
+
+
+### Misc ###
+
+* [Complexity Explorables](https://www.complexity-explorables.org/), A collection of interactive explorable explanations of complex systems in biology, physics, mathematics, social sciences, epidemiology, ecology and other fields.
+
+
+
+### Related awesome lists ###
+
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
+* [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
