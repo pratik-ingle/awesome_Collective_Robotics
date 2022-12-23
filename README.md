@@ -2,6 +2,10 @@
 Awesome Collective Robotics. [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================
 
+
+![Swarm Robotics = Collective Robotics $\cap$ Swarm Intelligence](sr1.svg){fig-align="center" height="350"}
+
+
 This is a list of various books, courses and other resources for swarm systems and robotics. It's an attempt to gather useful material in one place to guide and inspire everybody who wants to learn more about the fascinating field of collective behaviours and pursue research in swarm intelligence and robotics. 
 
 
