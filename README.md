@@ -4,7 +4,7 @@ Awesome Collective Robotics. [![](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 
 <p align="center">
-    <img width="350" src="sr1.svg" alt="Swarm Robotics = Collective Robotics $\cap$ Swarm Intelligence">
+    <img width="500" src="sr1.svg" alt="Swarm Robotics = Collective Robotics $\cap$ Swarm Intelligence">
 </p>
 
 
