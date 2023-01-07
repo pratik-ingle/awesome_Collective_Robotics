@@ -25,6 +25,7 @@ This is a list of various books, courses and other resources for swarm systems a
 * [Robot control](https://youtube.com/playlist?list=PLp8ijpvp8iCvFDYdcXqqYU5Ibl_aOqwjr) 
 * [Modern Robotics: Mechanics, Planning, and Control Specialization](https://in.coursera.org/specializations/modernrobotics) - Kevin Lynch
 * [Evolutionary Robotics Course](https://youtube.com/playlist?list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9) | [Schedule](https://docs.google.com/spreadsheets/d/1uaBpkv0fpSPGmgA8tbHBgRCI-cL2Qyx6gwnhzBJYJUE/edit#gid=0)  - Josh Bongard
+* [Distributed Control of Multi-Agent Systems](https://youtube.com/playlist?list=PLhvw3mw86d7cRGgWSR0Ir8b3ZsMixcsHH) - Xiangyu Meng (Louisiana State University)
 
 ### Books ###
 
@@ -83,7 +84,8 @@ Central repository for open-source Unity packages, tutorials, and other resource
 ### Talks ###
 
 * [Swarm robotics](https://youtu.be/MbmbNiDZ1zE) - Marco Dorigo 
-* [Decentralised decision making and swarm robotics](https://youtu.be/RQpC1Zgu6B8) - Heiko Hamann
+* [Decentralised decision making and swarm robotics I](https://youtu.be/RQpC1Zgu6B8) - Heiko Hamann
+* [Decentralised decision making and swarm robotics II](https://youtu.be/FgBypxnwPDw) - Heiko Hamann
 * [Taming the swarm - Collective Artificial Intelligence](https://youtu.be/LHgVR0lzFJc) - Radhika Nagpal
 * [Who’s in Charge of Living Swarms?](https://youtu.be/ewMDssOQkiY) - Simon Garnier 
 * [Swarm Intelligence: From Bees Feeding Bees, To Cars Charging Cars](https://youtu.be/nM13CEOyajo) - Tim Landgraf 
