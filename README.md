@@ -102,6 +102,19 @@ Central repository for open-source Unity packages, tutorials, and other resource
 * [Multi-robot Systems(MRS) Summer School 2019](https://youtube.com/playlist?list=PLPjuFI-_2rxxCr3AD7HBcFbCG6nvL56Rg) - Multi-robot Systems Group at FEE-CTU in Prague
 
 
+### Podcasts ###
+
+* [Swarm in space, with Giovanni Beltrame](https://open.spotify.com/episode/4tIi9YM9VqaJc9YoLQRZ7i?si=8910ec37f8aa45f5) - Giovanni Beltrame
+* [can swarm intelligence solve humanity's biggest problems](https://open.spotify.com/episode/6zrsvpTRRvxu2hu7e9Y1JZ?si=7d388c2ed2844754) - Dr. Louis Rosenberg 
+* [Smart swarms](https://open.spotify.com/episode/1CqHs5zXGQH0pkz9hdEMux?si=5734cd78a7fc49b2) -  Vijay Kumar
+* [Multi-agent systems and human-swarm interaction](https://open.spotify.com/episode/4b2RaJer0rH87VCVsDxMK7?si=8270e26720d8465c) - Magnus Egerstedt
+* [Perception and decision- making for underwater robots](https://open.spotify.com/episode/6gg1bLT4yYViKRvvqmztCB?si=ab340007cf3c40bb) - Brendan Englot
+* [Learning for collaboration, not competition](https://open.spotify.com/episode/4pMUvQtOzh15YV74ik55uc?si=467f026f344e4abc) - Jakob Foerster
+* [Micro-scale surgical robots](https://open.spotify.com/episode/7A0ksIJfJqlz2aEJmHJIxn?si=b736d488efd74935) - Eric Diller
+* [Enviornmental monitoring with the SlothBot](https://open.spotify.com/episode/4lsm6BSQ07dNd0mAVqT1wW?si=e9fb56fdb1ef4e25) - Gennaro Notomista
+* [Towards using micro and nano robots in human body](https://open.spotify.com/episode/6VuLynTNtXEqEw3NhUsSmP?si=3c6bad80a9344d42)  - Peer Fischer
+
+
 ### Misc ###
 
 * [Complexity Explorables](https://www.complexity-explorables.org/), A collection of interactive explorable explanations of complex systems in biology, physics, mathematics, social sciences, epidemiology, ecology and other fields.
