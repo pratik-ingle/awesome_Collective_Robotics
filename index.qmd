@@ -1,6 +1,6 @@
 ---
 title: "Awesome Collective Robotics"
-author: "Pratik Ingle"
+author: "[Pratik Ingle](https://pratik-ingle.github.io)" 
 date: "Dec 20 2022"
 toc: true
 
