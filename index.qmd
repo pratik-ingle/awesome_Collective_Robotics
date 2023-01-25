@@ -66,6 +66,7 @@ This is a list of various books, courses and other resources for swarm systems a
 * [Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence](https://www.amazon.com/Multi-Agent-Systems-Introduction-Distributed-Intelligence/dp/0201360489) - Jacques Ferber
 * [Collective Intelligence in Action](https://www.manning.com/books/collective-intelligence-in-action) - Satnam Alag
 * [Swarm Robotics: From Biology to Robotics](https://www.intechopen.com/books/3641) - Ester Martínez-Martín
+* [Get Together! Multi-robot Systems: Bio-Inspired Concepts and Deployment Challenges](https://link.springer.com/chapter/10.1007/978-981-19-1983-1_11) - Vivek Shankar Varadharajan & Giovanni Beltrame 
 
 ### Software and Libraries ###
 
