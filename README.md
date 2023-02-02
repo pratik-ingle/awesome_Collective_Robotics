@@ -35,6 +35,8 @@ This is a list of various books, courses and other resources for swarm systems a
 * [Collective Intelligence in Action](https://www.manning.com/books/collective-intelligence-in-action) - Satnam Alag
 * [Swarm Robotics: From Biology to Robotics](https://www.intechopen.com/books/3641) - Ester Martínez-Martín
 * [Get Together! Multi-robot Systems: Bio-Inspired Concepts and Deployment Challenges](https://link.springer.com/chapter/10.1007/978-981-19-1983-1_11) - Vivek Shankar Varadharajan & Giovanni Beltrame 
+* [Evolutionary Swarm Robotics: Evolving Self-Organising Behaviours in Groups of Autonomous Robots](https://link.springer.com/book/10.1007/978-3-540-77612-3) - Vito Trianni
+* [The Horizons of Evolutionary Robotics, chapter-7](https://terrorgum.com/tfox/books/horizonsofevolutionaryrobotics.pdf) - Vito Trianni, Elio Tuci, Christos Ampatzis, and Marco Dorigo 
 
 ### Software and Libraries ###
 
@@ -69,6 +71,7 @@ Central repository for open-source Unity packages, tutorials, and other resource
 * Schranz, Melanie, Martina Umlauft, Micha Sende, and Wilfried Elmenreich. "Swarm robotic behaviors and current applications." Frontiers in Robotics and AI 7 (2020): 36. [link](https://www.frontiersin.org/articles/10.3389/frobt.2020.00036/full) 
 * Dorigo, Marco, Guy Theraulaz, and Vito Trianni. "Swarm robotics: past, present, and future." Proceedings of the IEEE 109.7 (2021): 1152-1165. [link](https://www.researchgate.net/publication/352762371_Swarm_Robotics_Past_Present_and_Future)
 * Garnier, Simon, Jacques Gautrais, and Guy Theraulaz. "The biological principles of swarm intelligence." Swarm intelligence 1, no. 1 (2007): 3-31. [link](https://link.springer.com/article/10.1007/s11721-007-0004-y)
+* Ha, David, and Yujin Tang. "Collective intelligence for deep learning: A survey of recent developments." Collective Intelligence 1.1 (2022): 26339137221114874. [link](https://journals.sagepub.com/doi/full/10.1177/26339137221114874)
 
 ### Conferences/Journals ###
 
@@ -114,6 +117,7 @@ Central repository for open-source Unity packages, tutorials, and other resource
 * [Micro-scale surgical robots](https://open.spotify.com/episode/7A0ksIJfJqlz2aEJmHJIxn?si=b736d488efd74935) - Eric Diller
 * [Enviornmental monitoring with the SlothBot](https://open.spotify.com/episode/4lsm6BSQ07dNd0mAVqT1wW?si=e9fb56fdb1ef4e25) - Gennaro Notomista
 * [Towards using micro and nano robots in human body](https://open.spotify.com/episode/6VuLynTNtXEqEw3NhUsSmP?si=3c6bad80a9344d42)  - Peer Fischer
+* [Swarm robotics, nanorobots, and environmental monitoring](https://open.spotify.com/episode/0JWPnKQmwTQdM1K7247jkq?si=6187361f774147a0)  - Sabine Hauert
 
 
 ### Misc ###
