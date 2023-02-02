@@ -104,6 +104,7 @@ Central repository for open-source Unity packages, tutorials, and other resource
 * Schranz, Melanie, Martina Umlauft, Micha Sende, and Wilfried Elmenreich. "Swarm robotic behaviors and current applications." Frontiers in Robotics and AI 7 (2020): 36. [link](https://www.frontiersin.org/articles/10.3389/frobt.2020.00036/full) 
 * Dorigo, Marco, Guy Theraulaz, and Vito Trianni. "Swarm robotics: past, present, and future." Proceedings of the IEEE 109.7 (2021): 1152-1165. [link](https://www.researchgate.net/publication/352762371_Swarm_Robotics_Past_Present_and_Future)
 * Garnier, Simon, Jacques Gautrais, and Guy Theraulaz. "The biological principles of swarm intelligence." Swarm intelligence 1, no. 1 (2007): 3-31. [link](https://link.springer.com/article/10.1007/s11721-007-0004-y)
+* Ha, David, and Yujin Tang. "Collective intelligence for deep learning: A survey of recent developments." Collective Intelligence 1.1 (2022): 26339137221114874. [link](https://journals.sagepub.com/doi/full/10.1177/26339137221114874)
 
 ### Conferences/Journals ###
 
