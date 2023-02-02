@@ -67,6 +67,9 @@ This is a list of various books, courses and other resources for swarm systems a
 * [Collective Intelligence in Action](https://www.manning.com/books/collective-intelligence-in-action) - Satnam Alag
 * [Swarm Robotics: From Biology to Robotics](https://www.intechopen.com/books/3641) - Ester Martínez-Martín
 * [Get Together! Multi-robot Systems: Bio-Inspired Concepts and Deployment Challenges](https://link.springer.com/chapter/10.1007/978-981-19-1983-1_11) - Vivek Shankar Varadharajan & Giovanni Beltrame 
+* [Evolutionary Swarm Robotics: Evolving Self-Organising Behaviours in Groups of Autonomous Robots](https://link.springer.com/book/10.1007/978-3-540-77612-3) - Vito Trianni
+* [The Horizons of Evolutionary Robotics, chapter-7](https://terrorgum.com/tfox/books/horizonsofevolutionaryrobotics.pdf) - Vito Trianni, Elio Tuci, Christos Ampatzis, and Marco Dorigo 
+
 
 ### Software and Libraries ###
 
@@ -145,6 +148,7 @@ Central repository for open-source Unity packages, tutorials, and other resource
 * [Micro-scale surgical robots](https://open.spotify.com/episode/7A0ksIJfJqlz2aEJmHJIxn?si=b736d488efd74935) - Eric Diller
 * [Enviornmental monitoring with the SlothBot](https://open.spotify.com/episode/4lsm6BSQ07dNd0mAVqT1wW?si=e9fb56fdb1ef4e25) - Gennaro Notomista
 * [Towards using micro and nano robots in human body](https://open.spotify.com/episode/6VuLynTNtXEqEw3NhUsSmP?si=3c6bad80a9344d42)  - Peer Fischer
+* [Swarm robotics, nanorobots, and environmental monitoring](https://open.spotify.com/episode/0JWPnKQmwTQdM1K7247jkq?si=6187361f774147a0)  - Sabine Hauert
 
 
 ### Misc ###
