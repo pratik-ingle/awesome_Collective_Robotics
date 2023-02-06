@@ -31,12 +31,15 @@ This is a list of various books, courses and other resources for swarm systems a
 
 * [Swarm Robotics: A Formal Approach](https://link.springer.com/book/10.1007/978-3-319-74528-2) - Heiko Hamann
 * [Swarm Intelligence: From Natural to Artificial Systems](https://www.amazon.in/Swarm-Intelligence-Artificial-Institute-Complexity/dp/0195131592) - Eric Bonabeau, Marco Dorigo, and Guy Theraulaz
+* [Achieving Consensus in Robot Swarms](https://link.springer.com/book/10.1007/978-3-319-53609-5) - Gabriele Valentini
 * [Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence](https://www.amazon.com/Multi-Agent-Systems-Introduction-Distributed-Intelligence/dp/0201360489) - Jacques Ferber
 * [Collective Intelligence in Action](https://www.manning.com/books/collective-intelligence-in-action) - Satnam Alag
 * [Swarm Robotics: From Biology to Robotics](https://www.intechopen.com/books/3641) - Ester Martínez-Martín
 * [Get Together! Multi-robot Systems: Bio-Inspired Concepts and Deployment Challenges](https://link.springer.com/chapter/10.1007/978-981-19-1983-1_11) - Vivek Shankar Varadharajan & Giovanni Beltrame 
 * [Evolutionary Swarm Robotics: Evolving Self-Organising Behaviours in Groups of Autonomous Robots](https://link.springer.com/book/10.1007/978-3-540-77612-3) - Vito Trianni
 * [The Horizons of Evolutionary Robotics, chapter-7](https://terrorgum.com/tfox/books/horizonsofevolutionaryrobotics.pdf) - Vito Trianni, Elio Tuci, Christos Ampatzis, and Marco Dorigo 
+* [Adaptation and Awareness in Robot Ensembles: Scenarios and Algorithms](https://carlo.pinciroli.net/pdf/Pinciroli:ASCENS2015.pdf)  - Carlo Pinciroli, Michael Bonani, Francesco Mondada, Marco Dorigo
+
 
 ### Software and Libraries ###
 
@@ -104,7 +107,6 @@ Central repository for open-source Unity packages, tutorials, and other resource
 * [A swarm of mini drones makes ... magic!](https://youtu.be/u2bQSKvZ2qI) - Marco Tempest
 * [Intelligence Without Brains](https://youtu.be/RpwW9Lw2Ku4) - World Science Festival
 * [Multi-robot Systems(MRS) Summer School 2019](https://youtube.com/playlist?list=PLPjuFI-_2rxxCr3AD7HBcFbCG6nvL56Rg) - Multi-robot Systems Group at FEE-CTU in Prague
-
 
 ### Podcasts ###
 
