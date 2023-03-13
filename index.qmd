@@ -45,6 +45,7 @@ This is a list of various books, courses and other resources for swarm systems a
 
 ### Courses ###
 
+* [Swarm Intelligence](https://github.com/pratik-ingle/swarm_intelligence) - Nikolaus Correll
 * [Introduction to Complexity Science](https://in.coursera.org/learn/complexity) - Cheong Siew Ann
   (NTU Singapore)
 * [Bio-inspired Multi-agent Systems](https://canvas.harvard.edu/courses/29752) - Radhika Nagpal (Princeton University)
